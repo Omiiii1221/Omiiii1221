@@ -39,7 +39,7 @@ I analyze data to find patterns and insights. I am learning more about machine l
 ### Contact:
 
 * Email: [gaikwadom465@gmail.com](mailto:gaikwadom465@gmail.com)
-* LinkedIn: [Gaikwad Om](https://www.linkedin.com/in/gaikwadom)
+* LinkedIn: [Gaikwad Om](https://www.linkedin.com/in/om-gaikwad-a70421310/)
 
 ---
 
