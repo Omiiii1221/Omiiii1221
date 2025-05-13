@@ -6,7 +6,7 @@ I analyze data to find patterns and insights. I am learning more about machine l
 
 ### Certifications:
 
-* Google Data Analytics
+* Postgraduate Program In Data Science And Analytics - Imarticus Learning 
 * Cisco Data Science Essentials
 * HP Life Data Science
 
