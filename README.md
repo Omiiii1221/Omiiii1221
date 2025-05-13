@@ -12,7 +12,11 @@ I analyze data to find patterns and insights. I am learning more about machine l
 
 ### Internship:
 
-* Data Analytics Intern at Imarticus Pune – Worked on data analysis projects and created data dashboards.
+* At CODTECH IT SOLUTIONS PVT. LTD., I gained hands-on experience in data analytics using Python and SQL. I worked on data extraction, cleaning, and generating insights to support business decisions. This experience improved my data analysis skills and helped me understand how to structure data for effective reporting.
+
+* During my Data Analysis Internship at Cognifyz Technologies, I worked with real-world datasets to create data visualizations using Power BI and Tableau. I also enhanced my skills in data manipulation using Python and SQL, focusing on generating actionable insights for business reports.
+* Intern ID: CT04WQ144.
+
 
 ### Skills:
 
@@ -44,4 +48,4 @@ I analyze data to find patterns and insights. I am learning more about machine l
 * Data analysis and machine learning projects
 * Internships in data science
 
-Thank you for visiting my profile.cs
+Thank you for visiting my profile.
