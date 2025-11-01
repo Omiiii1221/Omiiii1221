@@ -1,51 +1,54 @@
 # Hi, I'm Gaikwad Om
 
-### Data Scientist/Data Analyst
+### Data Analyst | Aspiring Data Scientist
 
-I analyze data to find patterns and insights. I am learning more about machine learning to build predictive models. I am also interested in using data to solve real-world problems.
+I analyze data to uncover meaningful patterns and insights. I’m passionate about using data-driven approaches to solve real-world problems and continuously learning advanced machine learning techniques to build predictive and analytical models.
+---
 
-### Certifications:
+### Internship Experience
+**Data Scientist – Fourise Software Solutions Pvt. Ltd**
+*Jul 2025 – Present | Pune, Maharashtra, India (On-site)*
 
-* Postgraduate Program In Data Science And Analytics - Imarticus Learning 
-* Cisco Data Science Essentials
-* HP Life Data Science
+At Fourise Software Solutions, I work on real-world data science applications involving data analysis, model development, and visualization. My responsibilities include building and optimizing predictive models, performing exploratory data analysis (EDA), and creating dashboards for business insights.
 
-### Internship:
+**Skills:** Data Science, Natural Language Processing (NLP), Microsoft Power BI, Microsoft Excel, Python, SQL, Object Detection, EDA
 
-* At CODTECH IT SOLUTIONS PVT. LTD., I gained hands-on experience in data analytics using Python and SQL. I worked on data extraction, cleaning, and generating insights to support business decisions. This experience improved my data analysis skills and helped me understand how to structure data for effective reporting.
+**CODTECH IT SOLUTIONS PVT. LTD.**
+Worked on data analytics using Python and SQL. Responsibilities included data extraction, cleaning, and generating insights to support business decisions. This experience improved my analytical thinking and understanding of data structuring for effective reporting.
 
-* During my Data Analysis Internship at Cognifyz Technologies, I worked with real-world datasets to create data visualizations using Power BI and Tableau. I also enhanced my skills in data manipulation using Python and SQL, focusing on generating actionable insights for business reports.
-* Intern ID: CT04WQ144.
+---
 
-
-### Skills:
+### Technical Skills
 
 * **Programming:** Python, SQL
 * **Data Analysis Tools:** Excel, Power BI, Tableau, matplotlib
 * **Machine Learning:** scikit-learn, pandas, NumPy
 
-### Projects:
+---
 
-* Completed 20+ projects in data analysis and data science.
-* Worked on Kaggle datasets to build data models and visualizations.
-* Developed dashboards and reports using Power BI and Tableau.
-
-### Learning:
-
+### Areas of Learning
+* Data Analysis
 * Machine Learning
-* Data Structures
-* Database Management
+* Deep Learning
+* Database Management Systems
 
-### Contact:
+---
+### Certifications
 
-* Email: [gaikwadom465@gmail.com](mailto:gaikwadom465@gmail.com)
-* LinkedIn: [Gaikwad Om](https://www.linkedin.com/in/om-gaikwad-a70421310/)
+* Postgraduate Program in Data Science and Analytics – Imarticus Learning
+* Cisco Data Science Essentials
+* HP Life Data Science
+### Contact
+
+* **Email:** [gaikwadom465@gmail.com](mailto:gaikwadom465@gmail.com)
+* **LinkedIn:** [Gaikwad Om](https://www.linkedin.com/in/om-gaikwad-a70421310/)
 
 ---
 
-### Open to:
+### Open To
 
-* Data analysis and machine learning projects
-* Internships in data science
+* Data Analysis and Data Science Projects
+* Machine Learning and AI-based Internships
+* Collaboration on Analytical Research or Dashboard Development
 
 Thank you for visiting my profile.
