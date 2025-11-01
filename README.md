@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gaikwad Om
+# Hi, I'm Gaikwad Om
 
 ### Data Scientist/Data Analyst
 
