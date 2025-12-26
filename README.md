@@ -1,6 +1,6 @@
 # Hi, I'm Gaikwad Om
 
-### Data Analyst | Aspiring Data Scientist
+### Aspiring Data Analyst |  Data Scientist
 
 I analyze data to uncover meaningful patterns and insights. I’m passionate about using data-driven approaches to solve real-world problems and continuously learning advanced machine learning techniques to build predictive and analytical models.
 ---
