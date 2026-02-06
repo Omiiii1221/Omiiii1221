@@ -7,7 +7,7 @@ I analyze data to uncover meaningful patterns and insights. I’m passionate abo
 
 ### Internship Experience
 **Data Scientist – Fourise Software Solutions Pvt. Ltd**
-*Jul 2025 – Present | Pune, Maharashtra, India (On-site)*
+*June 2025 – Present | Pune, Maharashtra, India (On-site)*
 
 At Fourise Software Solutions, I work on real-world data science applications involving data analysis, model development, and visualization. My responsibilities include building and optimizing predictive models, performing exploratory data analysis (EDA), and creating dashboards for business insights.
 
